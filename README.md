@@ -8,7 +8,7 @@ sudo apt-get install build-essential libsodium-dev libboost-system-dev
 
 # Usage:
 ````javascript
-var ev = require('bindings')('equihashverify.node');
+var ev = require('bindings')('equihashverify144_5.node');
 
 var header = new Buffer(..., 'hex');
 var solution = new Buffer(..., 'hex'); //do not include byte size preamble "fd4005"

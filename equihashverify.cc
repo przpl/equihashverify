@@ -63,4 +63,4 @@ void Init(Handle<Object> exports) {
   NODE_SET_METHOD(exports, "verify", Verify);
 }
 
-NODE_MODULE(equihashverify, Init)
+NODE_MODULE(equihashverify144_5, Init)

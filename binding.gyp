@@ -1,7 +1,7 @@
 {
     "targets": [
         {
-            "target_name": "equihashverify",
+            "target_name": "equihashverify144_5",
             "dependencies": [
 
             ],
@@ -19,7 +19,7 @@
                 "crypto/sha1.cpp",
                 "crypto/sha256.cpp",
                 "crypto/sha512.cpp",
-                "equihashverify.cc"                
+                "equihashverify144_5.cc"                
             ],
             "include_dirs": [
                 "<!(node -e \"require('nan')\")",

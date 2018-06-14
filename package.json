@@ -1,8 +1,8 @@
 {
-  "name": "equihashverify",
+  "name": "equihashverify144_5",
   "version": "0.0.2",
   "description": "function to check whether an Equihash solution is valid",
-  "main": "equihashverify",
+  "main": "equihashverify144_5",
   "scripts": {
     "install": "env V=1 node-gyp rebuild",
     "test": "mocha"
@@ -17,7 +17,8 @@
   "author": "Joseph Nicholas R. Alcantara",
   "contributors": [
     "Alberto Garoffolo",
-    "cronic"
+    "cronic",
+    "przpl"
   ],
   "license": "MIT",
   "bugs": {

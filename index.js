@@ -1,1 +1,1 @@
-module.exports = require('bindings')('equihashverify.node');
+module.exports = require('bindings')('equihashverify144_5.node');
